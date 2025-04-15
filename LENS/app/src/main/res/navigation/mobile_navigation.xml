@@ -22,4 +22,11 @@
         android:name="br.com.lens.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_oferta"
+        android:name="br.com.lens.ui.oferta.OfertaFragment"
+        android:label="@string/menu_oferta"
+        tools:layout="@layout/fragment_oferta" />
+
 </navigation>
