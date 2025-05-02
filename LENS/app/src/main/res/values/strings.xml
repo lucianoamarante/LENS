@@ -1,29 +1,3 @@
 <resources>
     <string name="app_name">LENS</string>
-
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
-    <string name="nav_header_desc">Navigation header</string>
-
-    <!--
-    este menu se referem ao de 3 pontinhos
-    -->
-    <string name="menu_action_home">Iniciar o Home</string>
-    <string name="menu_action_ofertas">Ofertas do dia</string>
-    <string name="menu_action_sistema">Sistema LENS</string>
-    <string name="menu_action_voltar">Voltar</string>
-    <string name="menu_action_sair">Sair</string>
-    <string name="menu_action_settings">Configurações</string>
-
-    <!--
-    Estas variaveis se referem ao menu sanduiche
-    -->
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Galeria de Fotos</string>
-    <string name="menu_slideshow">Vídeos</string>
-    <string name="menu_oferta">Ofertas do dia</string>
-
 </resources>
