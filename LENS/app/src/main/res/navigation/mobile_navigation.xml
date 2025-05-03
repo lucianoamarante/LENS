@@ -48,4 +48,16 @@
         tools:layout="@layout/fragment_pesquisar"
         />
 
+    <!--
+    Ester fragmento esta endereçado ao pesquisar
+    -->
+    <fragment
+        android:id="@+id/nav_avatar"
+        android:name="br.com.oticaslens.ui.avatar.MonteSeuAvatarFullscreenFragment"
+        android:label="@string/menu_avatar"
+        tools:layout="@layout/fragment_monte_seu_avatar_fullscreen"
+        />
+
+
+
 </navigation>

@@ -3,37 +3,38 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-
     <item
         android:id="@+id/action_carrinho"
         android:orderInCategory="100"
         android:title="@string/action_carrinho"
-        app:showAsAction="never" />
+        app:showAsAction="never"
+        />
 
     <item
         android:id="@+id/action_add"
         android:orderInCategory="100"
         android:title="@string/action_add"
-        app:showAsAction="never" />
-
+        app:showAsAction="never"
+        />
 
     <item
         android:id="@+id/action_oferta"
         android:orderInCategory="100"
         android:title="@string/action_oferta"
-        app:showAsAction="never" />
-
+        app:showAsAction="never"
+        />
 
     <item
         android:id="@+id/action_avatar"
         android:orderInCategory="100"
         android:title="@string/action_avatar"
-        app:showAsAction="never" />
-
+        app:showAsAction="never"
+        />
 
     <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"
         android:title="@string/action_settings"
-        app:showAsAction="never" />
+        app:showAsAction="never"
+        />
 </menu>
