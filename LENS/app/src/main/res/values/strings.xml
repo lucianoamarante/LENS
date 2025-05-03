@@ -4,10 +4,12 @@
     <string name="navigation_drawer_open">Abre o navegador drawer</string>
     <string name="navigation_drawer_close">Fecha o navegador drawer</string>
 
+    // Strings de Titulos
     <string name="title_home">Início</string>
     <string name="title_dashboard">DashBord</string>
     <string name="title_notifications">Notícias</string>
 
+    // Strings que se refer ao Action_*
     <string name="action_add">Adicionar</string>
     <string name="action_carrinho">Carrinho de Compras</string>
     <string name="action_oferta">Oferta do Dia</string>
@@ -16,6 +18,7 @@
     <string name="action_contato">Contato</string>
     <string name="action_voltar">Voltar</string>
 
+    // Strings que se refer ao menuNavBotMenu
     <string name="nav_bot_menu_home">Iníciar</string>
     <string name="nav_bot_menu_dashboard">DashBoard</string>
     <string name="nav_bot_menu_notifications">Notícias</string>
