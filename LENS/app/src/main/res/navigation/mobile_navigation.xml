@@ -16,7 +16,6 @@
         tools:layout="@layout/fragment_home"
         />
 
-
     <!--
     Ester fragmento esta endereçado ao Galeria
     -->
@@ -36,7 +35,6 @@
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow"
         />
-
 
     <!--
     Ester fragmento esta endereçado ao pesquisar
@@ -58,15 +56,74 @@
         tools:layout="@layout/fragment_monte_seu_avatar_fullscreen"
         />
 
-
     <!--
-    Ester fragmento esta endereçado ao avatar
+    Ester fragmento esta endereçado ao lojas
     -->
     <fragment
         android:id="@+id/nav_lojas"
         android:name="br.com.oticaslens.ui.lojas.LojasFragment"
         android:label="@string/menu_lojas"
         tools:layout="@layout/fragment_lojas"
+        />
+
+    <!--
+    Ester fragmento esta endereçado ao outLet
+    -->
+    <fragment
+        android:id="@+id/nav_outlet"
+        android:name="br.com.oticaslens.ui.outlet.OutletFragment"
+        android:label="@string/menu_outlet"
+        tools:layout="@layout/fragment_outlet"
+        />
+
+    <!--
+    Ester fragmento esta endereçado ao Feminino
+    -->
+    <fragment
+        android:id="@+id/nav_feminino"
+        android:name="br.com.oticaslens.ui.feminino.FemininoFragment"
+        android:label="@string/menu_feminino"
+        tools:layout="@layout/fragment_feminino"
+        />
+
+    <!--
+    Ester fragmento esta endereçado ao Masculino
+    -->
+    <fragment
+        android:id="@+id/nav_masculino"
+        android:name="br.com.oticaslens.ui.masculino.MasculinoFragment"
+        android:label="@string/menu_masculino"
+        tools:layout="@layout/fragment_masculino"
+        />
+
+    <!--
+     Ester fragmento esta endereçado ao unissex
+     -->
+    <fragment
+        android:id="@+id/nav_unissex"
+        android:name="br.com.oticaslens.ui.unissex.UnissexFragment"
+        android:label="@string/menu_unissex"
+        tools:layout="@layout/fragment_unissex"
+        />
+
+    <!--
+     Ester fragmento esta endereçado ao promoção
+     -->
+    <fragment
+        android:id="@+id/nav_promocao"
+        android:name="br.com.oticaslens.ui.promocao.PromocaoFragment"
+        android:label="@string/menu_promocao"
+        tools:layout="@layout/fragment_promocao"
+        />
+
+    <!--
+     Ester fragmento esta endereçado ao sistema
+     -->
+    <fragment
+        android:id="@+id/nav_sistema"
+        android:name="br.com.oticaslens.ui.sistema.SistemaFullscreenFragment"
+        android:label="@string/menu_sistema"
+        tools:layout="@layout/fragment_sistema_fullscreen"
         />
 
 

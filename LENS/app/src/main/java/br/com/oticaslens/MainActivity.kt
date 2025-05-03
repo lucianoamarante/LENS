@@ -44,6 +44,11 @@ class MainActivity : AppCompatActivity() {
                 R.id.nav_pesquisar,
                 R.id.nav_avatar,
                 R.id.nav_lojas,
+                R.id.nav_outlet,
+                R.id.nav_feminino,
+                R.id.nav_masculino,
+                R.id.nav_unissex,
+                R.id.nav_promocao,
                 R.id.nav_sistema
 
             ), drawerLayout

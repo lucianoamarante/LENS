@@ -34,6 +34,12 @@
     <string name="menu_notifications">Notícias</string>
     <string name="menu_favoritos">Favoritos</string>
     <string name="menu_lojas">Lojas</string>
+    <string name="menu_outlet">OutLet</string>
+    <string name="menu_feminino">Feminino</string>
+    <string name="menu_masculino">Masculino</string>
+    <string name="menu_unissex">Unissex</string>
+    <string name="menu_promocao">Promoção</string>
+
     <string name="nav_header_title">Ótica LENS</string>
     <string name="nav_header_subtitle">atendimento@oticalens.com.br</string>
     <string name="nav_header_desc">Navegação de cabeça</string>
