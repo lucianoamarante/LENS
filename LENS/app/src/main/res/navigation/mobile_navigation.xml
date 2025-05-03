@@ -49,7 +49,7 @@
         />
 
     <!--
-    Ester fragmento esta endereçado ao pesquisar
+    Ester fragmento esta endereçado ao avatar
     -->
     <fragment
         android:id="@+id/nav_avatar"
@@ -58,6 +58,16 @@
         tools:layout="@layout/fragment_monte_seu_avatar_fullscreen"
         />
 
+
+    <!--
+    Ester fragmento esta endereçado ao avatar
+    -->
+    <fragment
+        android:id="@+id/nav_lojas"
+        android:name="br.com.oticaslens.ui.lojas.LojasFragment"
+        android:label="@string/menu_lojas"
+        tools:layout="@layout/fragment_lojas"
+        />
 
 
 </navigation>
