@@ -1,13 +1,21 @@
 <resources>
     <string name="app_name">LENS</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
-    <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+
+    <string name="navigation_drawer_open">Abre navegador de imagens</string>
+    <string name="navigation_drawer_close">Fecha o navegador de imagens</string>
+
+    <string name="nav_header_title">Ótica LENS</string>
+    <string name="nav_header_subtitle">atendimento@oticalens.com.br</string>
+    <string name="nav_header_desc">Navegação de cabeça</string>
+
+    <string name="action_settings">Configurações</string>
+    <string name="action_sair">Configurações</string>
 
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_slideshow">Apresentação</string>
+    <string name="menu_pesquisar">Pesquisar</string>
+    <string name="menu_sistema">Sistema</string>
+    <string name="menu_avatar">Avatar</string>
+
 </resources>
