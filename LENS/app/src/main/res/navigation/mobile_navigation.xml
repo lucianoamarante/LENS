@@ -22,4 +22,11 @@
         android:name="br.com.oticaslens.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_pesquisar"
+        android:name="br.com.oticaslens.ui.pesquisar.PesquisarFragment"
+        android:label="@string/menu_pesquisar"
+        tools:layout="@layout/fragment_pesquisar" />
+
 </navigation>
