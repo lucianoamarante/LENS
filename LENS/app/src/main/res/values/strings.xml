@@ -23,7 +23,6 @@
 
     <string name="nav_bot_menu_carrinho">Carrinho</string>
 
-
     <string name="menu_oferta">Menhor Oferta</string>
 
     <string name="menu_contato">Entre em Contato</string>
@@ -37,7 +36,7 @@
     <string name="nav_header_desc">Navegação de cabeça</string>
 
     <string name="action_settings">Configurações</string>
-    <string name="action_sair">Configurações</string>
+    <string name="action_sair">Sair</string>
 
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Galeria</string>
@@ -45,7 +44,7 @@
     <string name="menu_pesquisar">Pesquisar</string>
     <string name="menu_sistema">Sistema</string>
     <string name="menu_avatar">Avatar</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_button">Click para Acessar</string>
+    <string name="dummy_content">Bem Vindo\nao\nSistema</string>
 
 </resources>
