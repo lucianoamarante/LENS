@@ -1,8 +1,36 @@
 <resources>
     <string name="app_name">LENS</string>
 
-    <string name="navigation_drawer_open">Abre navegador de imagens</string>
-    <string name="navigation_drawer_close">Fecha o navegador de imagens</string>
+    <string name="navigation_drawer_open">Abre o navegador drawer</string>
+    <string name="navigation_drawer_close">Fecha o navegador drawer</string>
+
+    <string name="title_home">Início</string>
+    <string name="title_dashboard">DashBord</string>
+    <string name="title_notifications">Notícias</string>
+
+    <string name="action_add">Adicionar</string>
+    <string name="action_carrinho">Carrinho de Compras</string>
+    <string name="action_oferta">Oferta do Dia</string>
+    <string name="action_sistema">Acessar o Sistema</string>
+    <string name="action_avatar">Monte seu Avatar</string>
+    <string name="action_contato">Contato</string>
+    <string name="action_voltar">Voltar</string>
+
+    <string name="nav_bot_menu_home">Iníciar</string>
+    <string name="nav_bot_menu_dashboard">DashBoard</string>
+    <string name="nav_bot_menu_notifications">Notícias</string>
+    <string name="nav_bot_menu_oferta">Oferta</string>
+
+    <string name="nav_bot_menu_carrinho">Carrinho</string>
+
+
+    <string name="menu_oferta">Menhor Oferta</string>
+
+    <string name="menu_contato">Entre em Contato</string>
+    <string name="menu_adicionar">Adicionar</string>
+    <string name="menu_dashboard">Dash Board</string>
+    <string name="menu_notifications">Notícias</string>
+    <string name="menu_favoritos">Favoritos</string>
 
     <string name="nav_header_title">Ótica LENS</string>
     <string name="nav_header_subtitle">atendimento@oticalens.com.br</string>
