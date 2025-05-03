@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645131489479",
+    "project_id": "lojaonlinetenis-99bf6",
+    "storage_bucket": "lojaonlinetenis-99bf6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645131489479:android:cd040fe59b62950bd8aee2",
+        "android_client_info": {
+          "package_name": "com.projetos.lojaonlinetenis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLOLF6R3zynMNGqDmgmWm6oZgZEXO8SlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
